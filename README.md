@@ -92,3 +92,5 @@ ruling it out in the future.
 Copyright 2022 Docker, Inc.
 
 Licensed under [the Apache License, Version 2.0](LICENSE)
+
+<!-- Updated on 2025-08-28 12:40:35 by automated script -->
